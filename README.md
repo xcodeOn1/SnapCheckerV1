@@ -9,10 +9,10 @@
 وراح يطبعه لك فالترنمال + ملف نصي جميع يوزر متاح
 استمتعو
 # Install
-    $What You need to ues Script :
-    pip3 install requests
-    $To ues Script :
-    python3 SnapCheckerV1.py    
+   $What You need to ues Script :
+   pip3 install requests
+   $To ues Script :
+   python3 SnapCheckerV1.py    
 # screenshot :
-    ![First 1](https://i.ibb.co/31xYF05/Snap.png)
+![First 1](https://i.ibb.co/31xYF05/Snap.png)
 
