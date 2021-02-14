@@ -89,3 +89,7 @@ lines = file.readlines()
 for line in lines:
     line = str(line).strip()
     getUser(line)
+Snapchat: m.pg 
+Snapchat: siid 
+Snapchat : xbce 
+Snapchat: y3g
